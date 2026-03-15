@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hey there!
 My name is Dax. I go by the username Daxcr or DaxcrDev online.
 
