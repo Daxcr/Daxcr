@@ -11,4 +11,4 @@ I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](htt
 - ULTRAHOOK (wip ULTRAKILL modding tool, currently private)
 
 ## How to contact me:
-You can contact me [via email (daxaroodles@gmail.com)](mailto:daxcr@dax.cr), Discord (DM @daxcr or [via my Discord server](https://discord.gg/6vbhdzmGq7)), or [Instagram](https://www.instagram.com/daxcr_).
+You can contact me [via email (daxcr@dax.cr)](mailto:daxcr@dax.cr), Discord (DM @daxcr or [via my Discord server](https://discord.gg/6vbhdzmGq7)), or [Instagram](https://www.instagram.com/daxcr_).
