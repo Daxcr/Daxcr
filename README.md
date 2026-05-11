@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.png){width=200px}
 
 ![Gesture](gesture.png)
 
