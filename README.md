@@ -1,10 +1,10 @@
 ![Banner](banner.png)
 
 <img src="gesture.png" width="300px">
-<div style="margin-top: -15px;">
-    My name is Dax. I go by the username Daxcr or DaxcrDev online.
-    I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](https://github.com/Hiveborn-Digital/Honeycomb) (the engine) and [Allium](https://github.com/Hiveborn-Digital/Allium) (the map editor).
-</div>
+
+My name is Dax. I go by the username Daxcr or DaxcrDev online.
+I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](https://github.com/Hiveborn-Digital/Honeycomb) (the engine) and [Allium](https://github.com/Hiveborn-Digital/Allium) (the map editor).
+
 <img src="mystuff.png" width="300px">
 
 - [My game engine](https://github.com/Hiveborn-Digital/Honeycomb), mentioned above.
