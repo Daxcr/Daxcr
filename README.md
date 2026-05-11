@@ -1,12 +1,12 @@
 ![Banner](banner.png)
 
-<img src="gesture.png" alt="Description" width="300px" style="margin: 0; padding: 0; display: block;">
+<img src="gesture.png" alt="Description" width="300px">
 
 My name is Dax. I go by the username Daxcr or DaxcrDev online.
 
 I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](https://github.com/Hiveborn-Digital/Honeycomb) (the engine) and [Allium](https://github.com/Hiveborn-Digital/Allium) (the map editor).
 
-## My stuff:
+<img src="mystuff" alt="Description" width="300px">
 - [My game engine](https://github.com/Hiveborn-Digital/Honeycomb), mentioned above.
 - [Dax Helper (Celeste mod)](https://gamebanana.com/mods/635565)
 - WeaponryAPI (wip Celeste mod, currently private)
