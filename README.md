@@ -1,6 +1,6 @@
-![Banner](banner.png){width=200px}
+![Banner](banner.png)
 
-![Gesture](gesture.png)
+<img src="gesture.png" alt="Description" width="300">
 
 My name is Dax. I go by the username Daxcr or DaxcrDev online.
 
