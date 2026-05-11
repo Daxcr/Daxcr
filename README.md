@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-<img src="gesture.png" alt="Description" width="300">
+<img src="gesture.png" alt="Description" width="300px" style="margin: 0; padding: 0; display: block;">
 
 My name is Dax. I go by the username Daxcr or DaxcrDev online.
 
