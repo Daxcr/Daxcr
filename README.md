@@ -16,4 +16,4 @@ I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](htt
 
 <img src="contact.png" width="300px">
 
-You can contact me [via email (daxcr@dax.cr)](mailto:daxcr@dax.cr), Discord (DM @daxcr or [via my Discord server](https://discord.gg/6vbhdzmGq7)), or [Instagram](https://www.instagram.com/daxcr_).
+You can contact me [via email (daxcr@dax.cr)](mailto:daxcr@dax.cr), Discord (DM @daxcr or [via my Discord server](https://discord.gg/6vbhdzmGq7)), or [Instagram](https://www.instagram.com/daxcrdev).
