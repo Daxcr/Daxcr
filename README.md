@@ -3,15 +3,13 @@
 <img src="gesture.png" width="300px">
 
 My name is Dax. I go by the username Daxcr or DaxcrDev online.
-I'm currently working on a MonoGame-based game engine. Check out [Honeycomb](https://github.com/FragmaDevs/Honeycomb).
-
 
 <img src="mystuff.png" width="300px">
 
-- [My game engine](https://github.com/FragmaDevs/Honeycomb), mentioned above.
 - [Dax Helper (Celeste mod)](https://gamebanana.com/mods/635565)
 - WeaponryAPI (wip Celeste mod, currently private)
-- ULTRAHOOK (wip ULTRAKILL modding tool, currently private)
+- ULTRAHOOK (wip ULTRAKILL modding tool, currently private, maybe don't expect me to finish this one)
+- SinAPI (wip Cult of the Lamb modding tool, also private)
 
 
 <img src="contact.png" width="300px">
