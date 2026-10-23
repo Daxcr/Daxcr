@@ -2,7 +2,7 @@
 
 <img src="gesture.png" width="300px">
 
-My name is Dax. I go by the username Daxcr or DaxcrDev online.
+My name is Dax. I go by the username Daxcr or DaxcrDev online. I'm a .NET developer from New Zealand; yell at me on Discord if you need anything.
 
 <img src="mystuff.png" width="300px">
 
