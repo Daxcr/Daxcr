@@ -1,10 +1,10 @@
-![Banner](banner.png)
+<img src="cube.gif"/>
 
-<img src="gesture.png" width="300px">
+# Hey there
 
-My name is Dax. I go by the username Daxcr or DaxcrDev online. I'm a .NET developer from New Zealand; yell at me on Discord if you need anything.
+My name is Dax. I go by the username Daxcr or DaxcrDev online. I'm a .NET developer from New Zealand🇳🇿🇳🇿🇳🇿; yell at me on Discord if you need anything.
 
-<img src="mystuff.png" width="300px">
+# My stuff
 
 - [Rose.NET (WIP C# based http server)](https://github.com/Daxcr/Rose.NET)
 - [Harbour.NET (C# Discord bot used to deploy other C# Discord bots)](https://github.com/Daxcr/Harbour.NET)
@@ -14,6 +14,6 @@ My name is Dax. I go by the username Daxcr or DaxcrDev online. I'm a .NET develo
 - And a game :) (secret)
 
 
-<img src="contact.png" width="300px">
+# Contact
 
 You can contact me [via email (daxcr@dax.cr)](mailto:daxcr@dax.cr), Discord (DM @daxcr or [via my Discord server](https://discord.gg/6vbhdzmGq7)), or [Instagram](https://www.instagram.com/daxcrdev).
