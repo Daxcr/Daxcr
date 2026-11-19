@@ -1,4 +1,4 @@
-<img src="cube.gif"/>
+<img src="cube.gif" width="100%" />
 
 # Hey there
 
